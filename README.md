@@ -6,7 +6,6 @@ A fixed version of version 1.60 of Rbx2Source. I used the deafult version (all I
 Just wanna say that I saw a license in a earlier commit, so I'll be putting it here so I do not get in trouble.
 I also have to credit CloneTrooper1019 and gamenew09 for making Rbx2Source!
 (all I did was copy and change the license from a another github repo about Creative Commons. Also I DO NOT KNOW HOW TO LICENSE SO FORGIVE ME IF I GET THIS WRONG)
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International][cc-by-nc-sa]
