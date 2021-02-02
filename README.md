@@ -1,7 +1,7 @@
 Rbx2Source Legacy
 =====================
 A fixed version of version 1.60 of Rbx2Source. I used the deafult version (all I did was change the link it wants to access
-, pretty easy right?) Anyways, I will put the realeases in the releases corner so you do not have to deal with downloading it from the repo.
+, pretty easy right? nope. all kinds of errors HELP MEEEEEEEEE) Anyways, I will put the realeases in the releases corner so you do not have to deal with downloading it from the repo.
 
 Just wanna say that I saw a license in a earlier commit, so I'll be putting it here so I do not get in trouble.
 I also have to credit CloneTrooper1019 and gamenew09 for making Rbx2Source!
